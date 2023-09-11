@@ -67,3 +67,10 @@ a:hover {
   border-radius: 50px;
   box-shadow: 10px 10px 90px #f20044;
 }
+@media (max-width: 768px) {
+  .title p {
+    color: #f20044;
+    font-size: 5em;
+    padding-top: 8rem;
+  }
+}
